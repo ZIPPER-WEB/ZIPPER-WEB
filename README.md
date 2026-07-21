@@ -99,48 +99,6 @@ Designed and simulated an enterprise campus network using Cisco Packet Tracer.
 
 ---
 
-## 🤖 End-to-End Servicing Agent
-
-AI-powered servicing assistant built for the American Express CodeStreet Challenge.
-
-**Tech Stack**
-
-- Python
-- AWS
-- APIs
-- AI
-
----
-
-## ☁️ AWS Cloud Labs
-
-Hands-on AWS practice repository covering:
-
-- EC2
-- IAM
-- VPC
-- Security Groups
-- S3
-- Route 53
-- CloudWatch
-
----
-
-## 🐧 Linux Administration
-
-Collection of RHCSA practice labs and automation scripts.
-
-Includes:
-
-- User Management
-- Storage
-- File Permissions
-- Services
-- SSH
-- Bash Scripts
-
----
-
 ## 📖 Currently Learning
 
 - AWS Solutions Architecture
