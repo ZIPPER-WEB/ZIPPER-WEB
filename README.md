@@ -71,7 +71,7 @@ A Flutter-based wearable weather application that provides real-time weather upd
 
 📧 Email: **vasusingh235@gmail.com**
 
-💼 LinkedIn:(**https://www.linkedin.com/in/raghav-singh-439aa8319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQjoqFI4kTkaRraKAhgO%2Flg%3D%3D**)
+💼 LinkedIn:(**https://www.linkedin.com/in/raghav-singh-439aa8319**)
 
 🐙 GitHub: **https://github.com/ZIPPER-WEB**
 
