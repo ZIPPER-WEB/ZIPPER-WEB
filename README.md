@@ -1,127 +1,80 @@
-<h1 align="center">Hi 👋, I'm Raghav Singh</h1>
+<h1 align="center">Hi, I'm Raghav Singh 👋</h1>
 
-<h3 align="center">
-Cloud & Network Engineering Enthusiast ☁️ | AWS | Linux | DevOps
-</h3>
-
----
-
-## 🚀 About Me
-
-🎓 Final Year B.Tech Computer Science Student
-
-☁️ Passionate about Cloud Computing and AWS
-
-🐧 Learning Red Hat Enterprise Linux (RHCSA)
-
-🌐 Interested in Networking, Linux Administration & DevOps
-
-💻 Building practical cloud and infrastructure projects
-
-📚 Currently improving my skills in AWS, Linux, Python and Automation
+🎓 Final Year B.Tech Computer Science Student  
+☁️ Aspiring Cloud & Network Engineer  
+🐧 Passionate about Linux, AWS & Infrastructure  
+🚀 Interested in Cloud Computing, Networking & DevOps
 
 ---
 
-## 🎯 Current Focus
+# 🚀 About Me
 
-- ☁️ AWS Cloud
-- 🐧 Red Hat Enterprise Linux
-- 🌐 CCNA & Enterprise Networking
-- 🐍 Python Automation
-- 🐳 Docker
-- ⚙️ DevOps Fundamentals
-- 📂 Git & GitHub
+I'm a Computer Science student passionate about building scalable cloud infrastructure and solving real-world networking challenges. I enjoy working with Linux systems, AWS services, and enterprise networking while continuously expanding my knowledge of cloud technologies and automation.
+
+My key interests include:
+
+- ☁️ Cloud Computing (AWS)
+- 🐧 Linux System Administration (RHCSA)
+- 🌐 Enterprise Networking & CCNA
+- ⚙️ DevOps & Automation
+- 🐍 Python Scripting
+
+I'm currently looking for internship and entry-level opportunities where I can apply my cloud and networking skills, contribute to impactful projects, and grow as a Cloud & Infrastructure Engineer.
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 ### ☁️ Cloud
-- Amazon EC2
-- Amazon S3
-- IAM
-- VPC
-- Route 53
-- CloudWatch
-- Auto Scaling
-- Elastic Load Balancer
+AWS • EC2 • S3 • IAM • VPC
 
 ### 🐧 Linux
-- Red Hat Enterprise Linux
-- Ubuntu
-- Bash Scripting
-- SSH
-- User Management
-- File Permissions
-- Systemctl
+RHEL • Bash
 
 ### 🌐 Networking
-- TCP/IP
-- Subnetting
-- VLAN
-- Routing
-- Switching
-- DHCP
-- DNS
-- NAT
-- Cisco Packet Tracer
+TCP/IP • VLAN • Routing • Switching • DHCP • DNS
 
-### 💻 Programming
-- Python
-- Bash
-
-### 🛠 Tools
-- Git
-- GitHub
-- VS Code
-- VMware
-- VirtualBox
-- Docker
-- Postman
+### 💻 Languages & Tools
+Python • Git • GitHub • Docker • VS Code
 
 ---
 
-# 📂 Featured Projects
+# 📌 Featured Projects
 
-## 🏢 College Campus Network Design & Implementation
+## 🌐 College Campus Network Design & Implementation
 
 Designed and simulated an enterprise campus network using Cisco Packet Tracer.
 
-**Features**
-
-- VLAN Configuration
-- OSPF Routing
-- DHCP
-- DNS
-- NAT
-- Inter-VLAN Routing
-- Network Security
+**Tech Used:** Cisco Packet Tracer • VLAN • OSPF • DHCP • DNS • NAT
 
 ---
 
-## 📖 Currently Learning
+## 🌦️ Weather Watch
 
-- AWS Solutions Architecture
-- RHCSA
-- Docker
-- Kubernetes
-- Terraform
-- DevOps
+A Flutter-based wearable weather application that provides real-time weather updates using weather APIs.
+
+**Tech Used:** Flutter • C++ • Weather API
 
 ---
 
-## 🎯 Career Goal
+# 📚 Currently Learning
 
-To become a Cloud Engineer specializing in AWS, Linux, Automation, and Infrastructure.
+- ☁️ AWS Cloud & Solutions Architecture
+- 🐧 Red Hat Enterprise Linux (RHCSA)
+- 🌐 Advanced Networking (CCNA)
+- 🐳 Docker
+- ⚙️ DevOps Fundamentals
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 Email: **vasusingh235@gmail.com**
 
-💼 LinkedIn: *(Add your LinkedIn URL here)*
+💼 LinkedIn:(**https://www.linkedin.com/in/raghav-singh-439aa8319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQjoqFI4kTkaRraKAhgO%2Flg%3D%3D**)
+
+🐙 GitHub: **https://github.com/ZIPPER-WEB**
 
 ---
 
-⭐ **"Learn • Build • Automate • Repeat."**
+⭐ *"Learn • Build • Deploy • Repeat."*
