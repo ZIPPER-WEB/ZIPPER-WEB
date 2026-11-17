@@ -1,111 +1,83 @@
-# Hi, I'm Raghav Singh 👋
+<h1 align="center">Raghav Singh</h1>
 
-### ☁️ Cloud & Network Engineer | AWS Certified Solutions Architect – Associate | Linux | Networking | DevOps
+<p align="center">
+  <b>Cloud & Network Engineer</b><br/>
+  AWS Certified Solutions Architect – Associate · Linux (RHEL) · Networking · Python
+</p>
 
-🎓 Final Year B.Tech Computer Science Student  
-☁️ AWS Certified Solutions Architect – Associate  
-🌐 Passionate about Cloud Computing & Enterprise Networking  
-🐧 Linux & System Administration Enthusiast  
-⚙️ Exploring DevOps, Infrastructure Automation & Cloud Security  
-
----
-
-## 🚀 About Me
-
-I'm a Computer Science student focused on **Cloud Computing, Networking, Linux Administration, and Infrastructure Engineering**.
-
-I hold the **AWS Certified Solutions Architect – Associate** certification and have a strong interest in designing reliable, scalable, secure, and cost-effective cloud infrastructure.
-
-My background in networking and Linux complements my cloud knowledge, allowing me to understand infrastructure from both the **network and cloud perspective**.
-
-I'm currently building hands-on projects with AWS, Linux, networking, Docker, and automation while expanding my knowledge of modern cloud infrastructure and DevOps practices.
-
-### 🎯 Current Focus
-
-- ☁️ AWS Cloud Architecture & Infrastructure
-- 🌐 Enterprise Networking & CCNA
-- 🐧 Red Hat Enterprise Linux
-- 🐳 Docker & Containerization
-- ⚙️ DevOps & Infrastructure Automation
-- 🐍 Python & Bash Automation
-- 🔐 Cloud & Infrastructure Security
+<p align="center">
+  <a href="https://www.linkedin.com/in/raghav-singh-439aa8319"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/New%20Delhi%2C%20India-2ea44f?style=for-the-badge" alt="Location"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### ☁️ Cloud
-**AWS • EC2 • S3 • IAM • VPC • Cloud Networking**
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
+I'm a cloud and network engineer with a B.Tech in Computer Science (2026). I like understanding infrastructure end to end: how a packet moves across a campus network, and how the same ideas apply to a VPC in AWS.
 
-### 🌐 Networking
-**TCP/IP • VLAN • Routing • Switching • DHCP • DNS • NAT • OSPF**
+My work combines three areas:
 
-### 🐧 Linux
-**RHEL • Linux Administration • Bash**
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+- **Cloud:** designing AWS environments that are secure, reliable and cost-aware
+- **Networking and Linux:** enterprise routing and switching, plus Red Hat Enterprise Linux administration
+- **Automation:** using Python and Bash to inspect, check and report on infrastructure instead of doing it by hand
 
-
-
-### ⚙️ DevOps & Tools
-**Docker • Git • GitHub • VS Code**
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
-
-
-### 💻 Programming
-**Python • Bash**
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm looking for **Cloud Engineer, DevOps Engineer, Infrastructure Engineer and Network Engineer** roles, including internships and entry-level positions.
 
 ---
 
-## 🏆 Certification
+## Tech Stack
 
-### ☁️ AWS Certified Solutions Architect – Associate
+| Area | Skills |
+|---|---|
+| **Cloud** | AWS · EC2 · S3 · IAM · VPC |
+| **Networking** | Cisco IOS · TCP/IP · VLAN · OSPF · STP · ACLs · DHCP · DNS · NAT |
+| **Linux** | Red Hat Enterprise Linux (RHEL) · system administration |
+| **Programming** | Python · Bash |
+| **DevOps & Tools** | Git · GitHub · Cisco Packet Tracer · VS Code |
+| **Learning** | Docker · Kubernetes · Terraform · CI/CD |
 
-Certified in designing and understanding **secure, resilient, high-performing, and cost-optimized architectures on AWS**.
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 College Campus Network Design & Implementation
-
-Designed and simulated an enterprise-level college campus network using Cisco Packet Tracer.
-
-**Implemented:**
-- VLAN segmentation
-- Inter-VLAN Routing
-- OSPF
-- DHCP
-- DNS
-- NAT
-- Enterprise network topology
-- Network connectivity & troubleshooting
-
-**Tech:** Cisco Packet Tracer • VLAN • OSPF • DHCP • DNS • NAT
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,redhat,python,bash,git,github,vscode" alt="skills"/>
+</p>
 
 ---
 
-## 📚 Currently Building
+## Featured Projects
 
-- ☁️ AWS Cloud Infrastructure Projects
-- 🌐 Enterprise Networking Labs
-- 🐳 Docker & Containerized Applications
-- ⚙️ DevOps Automation Projects
-- 🐍 Python/Bash Infrastructure Automation
+### [CloudSentinel: AWS Network Security & Diagnostics](https://github.com/ZIPPER-WEB/Cloudsentinel-AWS)
+
+A read-only analyzer that inventories AWS network resources and flags common security and routing issues.
+
+- Collects VPCs, subnets, route tables, security groups, NACLs, EC2 instances, ENIs, internet gateways and VPC peering connections
+- Detects world-open SSH/RDP rules, all-protocol inbound rules, blackhole routes and inactive peering connections
+- Outputs to a Streamlit dashboard or timestamped JSON and HTML reports
+- Uses read-only AWS APIs and is covered by automated tests
+
+`Python` `Boto3` `Streamlit` `Pandas` `pytest` `AWS VPC/EC2`
+
+### [VWNA College Campus Network](https://github.com/ZIPPER-WEB/Campus-Network)
+
+My B.Tech final-year project: a hierarchical, enterprise-style campus network for a college, simulated in Cisco Packet Tracer. See the [report](https://github.com/ZIPPER-WEB/Campus-Network/blob/main/Report.pdf) and [presentation](https://github.com/ZIPPER-WEB/Campus-Network/blob/main/PPT.pdf).
+
+- Core, distribution and access layers with VLAN segmentation across eight departments
+- OSPF routing, inter-VLAN routing, DHCP, DNS and NAT
+- Security through ACLs, SSH, port security and an isolated guest network
+- Redundancy with STP, plus SNMP and Syslog monitoring
+
+`Cisco Packet Tracer` `Cisco IOS` `VLAN` `OSPF` `ACL` `STP`
 
 ---
 
-## 🎯 Career Goal
+## Currently Working On
 
-I'm looking for **internship and entry-level opportunities** in:
-
-**Cloud Engineering • Cloud Infrastructure • Network Engineering • Linux Administration • DevOps**
-
-My goal is to build and manage **secure, scalable, and reliable infrastructure** while continuously improving my skills across cloud, networking, and automation.
+- Extending CloudSentinel with more checks
+- Python and Bash automation for infrastructure tasks
+- Docker, containers and CI/CD fundamentals
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-I'm always interested in connecting with people working in **Cloud, Networking, DevOps, and Infrastructure Engineering**.
+I enjoy talking with people working in cloud, networking, DevOps and infrastructure. Reach out on [LinkedIn]
