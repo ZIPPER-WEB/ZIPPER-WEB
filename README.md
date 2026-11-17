@@ -1,8 +1,8 @@
 <h1 align="center">Raghav Singh</h1>
 
 <p align="center">
-  <b>Cloud & Network Engineer</b><br/>
-  AWS Certified Solutions Architect – Associate · Linux (RHEL) · Networking · Python
+  <b>Cloud Engineer</b><br/>
+  AWS Certified Solutions Architect – Associate · Linux (RHEL) · Python · Networking
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 ## About
 
-I'm a cloud and network engineer with a B.Tech in Computer Science (2026). I like understanding infrastructure end to end: how a packet moves across a campus network, and how the same ideas apply to a VPC in AWS.
+I'm a cloud engineer with a B.Tech in Computer Science (2026). My focus is **AWS**: designing and reviewing cloud infrastructure that is secure, reliable and cost-aware. A solid networking foundation helps me understand how traffic actually flows through VPCs, routes and security rules.
 
-My work combines three areas:
+What I work on:
 
-- **Cloud:** designing AWS environments that are secure, reliable and cost-aware
-- **Networking and Linux:** enterprise routing and switching, plus Red Hat Enterprise Linux administration
+- **Cloud:** AWS architecture, VPC networking, IAM and security configuration review
 - **Automation:** using Python and Bash to inspect, check and report on infrastructure instead of doing it by hand
+- **Linux and networking:** Red Hat Enterprise Linux administration, plus enterprise routing and switching
 
-I'm looking for **Cloud Engineer, DevOps Engineer, Infrastructure Engineer and Network Engineer** roles, including internships and entry-level positions.
+I'm looking for **Cloud Engineer, DevOps Engineer and Infrastructure Engineer** roles (Network Engineer too), including internships and entry-level positions.
 
 ---
 
@@ -32,14 +32,14 @@ I'm looking for **Cloud Engineer, DevOps Engineer, Infrastructure Engineer and N
 | Area | Skills |
 |---|---|
 | **Cloud** | AWS · EC2 · S3 · IAM · VPC |
-| **Networking** | Cisco IOS · TCP/IP · VLAN · OSPF · STP · ACLs · DHCP · DNS · NAT |
-| **Linux** | Red Hat Enterprise Linux (RHEL) · system administration |
 | **Programming** | Python · Bash |
+| **Linux** | Red Hat Enterprise Linux (RHEL) · system administration |
+| **Networking** | Cisco IOS · TCP/IP · VLAN · OSPF · STP · ACLs · DHCP · DNS · NAT |
 | **DevOps & Tools** | Git · GitHub · Cisco Packet Tracer · VS Code |
 | **Learning** | Docker · Kubernetes · Terraform · CI/CD |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,redhat,python,bash,git,github,vscode" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=aws,python,bash,linux,redhat,git,github,vscode" alt="skills"/>
 </p>
 
 ---
@@ -80,4 +80,4 @@ My B.Tech final-year project: a hierarchical, enterprise-style campus network fo
 
 ## Let's Connect
 
-I enjoy talking with people working in cloud, networking, DevOps and infrastructure. Reach out on [LinkedIn]
+I enjoy talking with people working in cloud, DevOps and infrastructure. Reach out on [LinkedIn](https://www.linkedin.com/in/raghav-singh-439aa8319).
